@@ -4,4 +4,4 @@ __author__ = """John T. Foster"""
 __email__ = 'johntfosterjr@gmail.com'
 __version__ = '0.2.0'
 
-import .github_canvas_grader
+import github_canvas_grader
